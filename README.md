@@ -20,8 +20,11 @@ But thats a different story MojaveLib Mk1 is currently ran on my personal comput
 ## Here is MojaveLib Mk1.
 ##### Main Menu
 ![MainMenu!](assets/MainMenu)
+The main menu - a simple switch case that allows the users to select from the various functions that mojave lib offers.
 ##### Personal Journal Feature
-![new journal entry!](assets/JournalEntry)
+![new journal entry!](assets/DeclaringJournal)
+Where the user declares all attributes that match their journal entry
+- description - author - genre - media type - the content -
 
 ##### Online Libray
 ##### AI Study Tool
