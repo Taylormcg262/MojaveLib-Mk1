@@ -18,13 +18,8 @@ ideas such as just simply connecting a standalone pc via vga to the monitor and 
 But thats a different story MojaveLib Mk1 is currently ran on my personal computer connected to the monitor via hdmi to vga cables and only running the software when need be, after all this is just the prototype to evaluate where my understanding of C# lays.
 
 ## Here is MojaveLib Mk1.
-##### Main Menu
-![MainMenu!](assets/MainMenu.PNG)
-The main menu - a simple switch case that allows the users to select from the various functions that mojave lib offers.
-##### Personal Journal Feature
-![new journal entry!](assets/DeclaringJournal)
-Where the user declares all attributes that match their journal entry
-- description - author - genre - media type - the content -
+##### Full Demonstration of the completed MK1 Prototype.
+[![DEMO](https://youtu.be/wVSp57sZ7s0)][(https://youtu.be/wVSp57sZ7s0)]]
 
 ##### Online Libray
 ##### AI Study Tool
