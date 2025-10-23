@@ -19,7 +19,8 @@ But thats a different story MojaveLib Mk1 is currently ran on my personal comput
 
 ## Here is MojaveLib Mk1.
 ##### Full Demonstration of the completed MK1 Prototype.
-[![DEMO](assets/DEMO.png)] [(https://youtu.be/wVSp57sZ7s0)]]
+![Demo](assets/DEMO.png)
+ [(https://youtu.be/wVSp57sZ7s0)]]
 
 ##### Online Libray
 ##### AI Study Tool
