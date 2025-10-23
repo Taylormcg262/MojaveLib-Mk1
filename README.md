@@ -41,7 +41,7 @@ Leverage the power of Large Language Models (LLMs) for in-depth research, right 
 - **Save AI Insights**: Instantly save AI-generated explanations as new entries in your local journal.
 ![The AI](assets/OllamaTutorial.gif)
 
-                                                        *Hes quite fond of yapping, almost too much...*
+  Hes quite fond of yapping, almost too much...
 
 ## Technical Deep Dive
 
