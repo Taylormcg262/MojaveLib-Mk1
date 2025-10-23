@@ -1,0 +1,13 @@
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe.config
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstP.926B8CE4.Up2Date
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\taylo\Documents\FreeCodeCampCourseProjects\MyFirstProject\MyFirstProject\bin\Debug\SpotifyAPI.Web.xml
