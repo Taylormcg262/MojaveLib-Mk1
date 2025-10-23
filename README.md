@@ -38,7 +38,7 @@ Leverage the power of Large Language Models (LLMs) for in-depth research, right 
 - **Streaming Output**: Get real-time, character-by-character responses from the AI for an interactive experience.
 - **Conversational AI**: Engage in a continuous chat with the AI to explore topics, ask follow-up questions, and refine your understanding.
 - **Save AI Insights**: Instantly save AI-generated explanations as new entries in your local journal.
-![The Journal](assets/DeclaringJournal.PNG)
+![The AI](assets/OllamaTutorial.gif)
 
                                                         *Hes quite fond of yapping, almost too much...*
 
