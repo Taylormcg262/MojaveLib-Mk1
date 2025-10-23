@@ -11,8 +11,9 @@ In an age of constant digital noise, MojaveLib was born from a desire to create 
 This project transforms a piece of computing history into a powerful, modern tool, proving that new technology can be thoughtfully integrated to enhance focus rather than shatter it.
 
 ![The Monitor Setup](assets/p3.jpg)
-<!-- Add a high-quality photo of the CRT monitor setup in a study environment -->
-
+## Watch Mojave Do Its Thing.
+![demo](assets/DEMO.PNG)
+                                                                       *https://youtu.be/wVSp57sZ7s0*
 ## Core Features
 
 MojaveLib is built on three pillars designed to support your intellectual journey.
