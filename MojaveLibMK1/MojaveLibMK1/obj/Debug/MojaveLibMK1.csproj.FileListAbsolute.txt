@@ -1,0 +1,12 @@
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\MojaveLibMK1.exe.config
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\MojaveLibMK1.exe
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\MojaveLibMK1.pdb
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\obj\Debug\MojaveLibMK1.csproj.AssemblyReference.cache
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\obj\Debug\MojaveLibMK1.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\obj\Debug\MojaveLi.80626297.Up2Date
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\obj\Debug\MojaveLibMK1.exe
+C:\Users\taylo\Documents\MojaveLib-Mk1-main\MojaveLibMK1\MojaveLibMK1\obj\Debug\MojaveLibMK1.pdb

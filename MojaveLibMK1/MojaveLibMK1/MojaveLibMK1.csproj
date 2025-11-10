@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FC46CC38-EFC8-4EDF-9F7B-44D9174AD20F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyFirstProject</RootNamespace>
-    <AssemblyName>MyFirstProject</AssemblyName>
+    <RootNamespace>MojaveLibMK1</RootNamespace>
+    <AssemblyName>MojaveLibMK1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

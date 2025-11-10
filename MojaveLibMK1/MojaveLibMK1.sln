@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MojaveLibMK1", "MyFirstProject\MojaveLibMK1.csproj", "{FC46CC38-EFC8-4EDF-9F7B-44D9174AD20F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MojaveLibMK1", "MojaveLibMK1\MojaveLibMK1.csproj", "{FC46CC38-EFC8-4EDF-9F7B-44D9174AD20F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
